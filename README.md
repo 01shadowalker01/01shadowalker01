@@ -14,12 +14,12 @@ I'm Saeed and I am a web developer ^_^<br><br>
 ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![OpenSource](https://img.shields.io/badge/-OpenSource-05122A?style=flat&logo=opensource)&nbsp;
+![OpenSource](https://img.shields.io/badge/-OpenSource-05122A?style=flat&logo=open_source)&nbsp;
 ![Leetcode](https://img.shields.io/badge/-Leetcode-05122A?style=flat&logo=leetcode)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 <br><br>
 
-Random joke:
+Random joke:<br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <br>
 <!--
